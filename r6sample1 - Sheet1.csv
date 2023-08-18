@@ -1,0 +1,70 @@
+reservation_id,Reserved_user,"
+reservation_created_date
+",inv_id,inv_name,inv_desc,Reservation_status,Reservation_status_comments,Reservation_expiry_date,Books,reserved_user_mail
+1000,Aarav,2023-01-02,1,Python,This book contains basics of python.,Issued,please return the book by feb 1st,2023-01-02,item1,Aarav@gmail.com
+1001,Anika,2023-01-03,2,java,This book contains basics of java.,Issued,plz return on march,2023-01-03,item2,Anika@gmail.com
+1002,Arjun,2023-01-04,3,c programming,This book contains basics of c programming language.,Issued,plz return on apr,2023-01-04,item3,Arjun@gmail.com
+1003,Bhavya,2023-01-05,4,c++,This book contains basics of C++.,Issued,plz return on apr,2023-01-05,item1,Bhavya@gmail.com
+1004,Chaya,2023-01-06,5,Advance java,This book contains advance of java.,Issued,plz return on apr,2023-01-06,item2,Chaya@gmail.com
+1005,Daksh,2023-01-07,6,Advance python,This book contains advance of python.,Issued,plz return on apr,2023-01-07,item3,Daksh@gmail.com
+1006,Esha,2023-01-08,7,flask,This book contains fundamentals of flask.,Issued,plz return on apr,2023-01-08,item4,Esha@gmail.com
+1007,Farhan,2023-01-09,8,django,This book contains fundamentals of django.,Issued,plz return on apr,2023-01-09,item5,Farhan@gmail.com
+1008,Gauri,2023-01-10,9,networks,This book contains fundamentals of networks.,Issued,plz return on apr,2023-01-10,item6,Gauri@gmail.com
+1009,Harsh,2023-01-11,10,devops,This book contains fundamentals of devops.,Issued,plz return on apr,2023-01-11,item7,Harsh@gmail.com
+1010,Ishaan,2023-01-12,11,microsoft,"This book contains fundamentals of microsoft office,like word,power point,excel etc.",Issued,plz return on apr,2023-01-12,item8,Ishaan@gmail.com
+1011,Jaya,2023-01-13,12,storage area network,This book contains fundamentals of storage are network.,Issued,plz return on apr,2023-01-13,item9,Jaya@gmail.com
+1012,Kabir,2023-03-11,13,iot,This book contains fundamentals of iot.,Issued,plz return on apr,2023-01-14,item10,Kabir@gmail.com
+1013,Lavanya,2023-03-12,14,JavaScript:The Good Parts,This book contains fundamentals of JavaScript.,Issued,plz return on apr,2023-01-15,item11,Lavanya@gmail.com
+1014,Mohit,2023-03-13,15,The Art of Computer Programming,This book contains the art of computer programming.,Issued,plz return on apr,2023-01-16,item12,Mohit@gmail.com
+1015,Nisha,2023-03-14,16,Introduction to Algorithms,This book contains the introduction to algorithms,Issued,plz return on apr,2023-01-17,item13,Nisha@gmail.com
+1016,Omkar,2023-03-17,17,Structure and Interpretation of Computer Programs,This book contains structure and interpretation of computer programs,Issued,plz return on apr,2023-01-18,item14,Omkar@gmail.com
+1017,Pooja,2023-03-18,18,Computer Networks,This book contains about computer networks.,PENDING,plz return on apr,2023-01-19,iteam1,Pooja@gmail.com
+1018,Qamar,2023-03-19,19,Operating System Concepts,"This book contains regarding operating system.
+",PENDING,plz return on apr,2023-01-20,iteam2,Qamar@gmail.com
+1019,Rishi,2023-03-20,20,Computer Organization and Design,This book contains about computer organization and design.,PENDING,plz return on apr,2023-01-21,iteam3,Rishi@gmail.com
+1020,Saanvi,2023-03-21,21,"Compilers: Principles, Techniques, and Tools",This book contains regarding compilers and tools.,PENDING,plz return on apr,2023-01-22,iteam4,Saanvi@gmail.com
+1021,Tanvi,2023-03-22,22,Artificial Intelligence: A Modern Approach,This book contains about the artificail intelligence,PENDING,plz return on apr,2023-01-23,iteam5,Tanvi@gmail.com
+1022,Utkarsh,2023-03-23,23,Pattern Recognition and Machine Learning,This book contains about Machine learning.,PENDING,plz return on apr,2023-01-24,iteam6,Utkarsh@gmail.com
+1023,Vaishnavi,2023-03-24,24,Introduction to the Theory of Computation,This book contains about theory of computation.,PENDING,plz return on apr,2023-01-25,iteam7,Vaishnavi@gmail.com
+1024,Yash,2023-03-25,25,Concrete Mathematics: A Foundation for Computer Science,This book contains about concrete mathematics.,PENDING,plz return on apr,2023-01-26,item1,Yash@gmail.com
+1025,Zara,2023-03-26,26,The C Programming Language,This book contains about C programming language.,PENDING,plz return on apr,2023-01-27,item2,Zara@gmail.com
+1026,Dev,2023-03-27,27,Computer Vision: Algorithms and Applications,This book contains about computer vision:algorithm and applications.,PENDING,plz return on apr,2023-01-28,item3,Dev@gmail.com
+1019,Kavya,2023-03-28,28,Introduction to Data Mining,This book contains about data mining.,PENDING,plz return on apr,2023-01-29,item4,Kavya@gmail.com
+1020,Nikhil,2023-03-29,29,Artificial Intelligence: Foundations of Computational Agents,This book contains about artificial intelligence.,PENDING,plz return on apr,2023-01-30,item5,Nikhil@gmail.com
+1021,Riya,2023-03-30,30,Database System Concepts,This book contains about database concepts.,PENDING,plz return on apr,2023-01-31,item1,Riya@gmail.com
+1022,Aryan,2023-03-31,31,Computer Graphics: Principles and Practice,This book contains regarding computer graphics.,PENDING,plz return on apr,2023-02-01,item2,Aryan@gmail.com
+1023,Mira,2023-04-01,32,Digital Image Processing,This book contains regarding digital image processing.,PENDING,plz return on apr,2023-02-02,item3,Mira@gmail.com
+1024,Ved,2023-04-02,33,Artificial Intelligence: A Guide to Intelligent Systems,This book contains about artificial intelligence.,PENDING,plz return on apr,2023-02-03,item4,Ved@gmail.com
+1025,Myra,2023-04-03,34,"Introduction to Automata Theory, Languages, and Computation",This book contains about Automata theory and computation.,PENDING,plz return on apr,2023-02-04,item5,Myra@gmail.com
+1026,Alok,2023-04-04,35,Computer Architecture: A Quantitative Approach,This book contains about computer architecture.,PENDING,plz return on apr,2023-02-05,item6,Alok@gmail.com
+1019,Niharika,2023-04-05,36,Data Structures and Algorithms in Python,This book contains about data structure and algorithms.,PENDING,plz return on apr,2023-02-06,item7,Niharika@gmail.com
+1020,Devansh,2023-04-06,37,Computer Organization and Architecture: Designing for Performance,This book contains about computer organization and design.,PENDING,plz return on apr,2023-02-07,item8,Devansh@gmail.com
+1019,Prisha,2023-04-07,38,Introduction to Artificial Intelligence,This book contains about artificial intelligence.,PENDING,plz return on apr,2023-02-08,item9,Prisha@gmail.com
+1020,Hrithik,2023-04-08,39,Machine Learning,This book contains about machine learning.,PENDING,plz return on apr,2023-02-09,item10,Hrithik@gmail.com
+1021,Aanya,2023-04-09,40,Introduction to the Design and Analysis of Algorithms,"This book contains about design,analysis and algorithms.",PENDING,plz return on apr,2023-02-10,item11,Aanya@gmail.com
+1022,Arnav,2023-04-10,41,Web Technologies: A Computer Science Perspective,This book contains about web technologies.,PENDING,plz return on apr,2023-02-11,item12,Arnav@gmail.com
+1023,Ananya,2023-04-11,42,"Computer Networking: Principles, Protocols, and Practice",This book contains about computer networks.,PENDING,plz return on apr,2023-02-12,item1,Ananya@gmail.com
+1024,Aditya,2023-04-12,43,Introduction to Artificial Intelligence,This book contains about artificial intelligence.,PENDING,plz return on apr,2023-02-13,item2,Aditya@gmail.com
+1025,Ishika,2023-04-13,44,Algorithm Design,This book contains about Algorithm design.,PENDING,plz return on apr,2023-02-14,item3,Ishika@gmail.com
+1026,Karan,2023-04-14,45,Computer Networks,This book contains about Computer networks.,PENDING,plz return on apr,2023-02-15,item4,Karan@gmail.com
+1027,Navya,2023-04-15,46,Software Engineering: A Practitioner's Approach,This book contains about software engineering.,PENDING,plz return on apr,2023-02-16,item5,Navya@gmail.com
+1028,Rohan,2023-04-16,47,Computer Graphics: Principles and Practice,This book contains about Computer Graphics.,PENDING,plz return on apr,2023-02-17,item6,Rohan@gmail.com
+1029,Tanisha,2023-04-17,48,Pattern Recognition and Machine Learning,This book contains about pattern recognition and machine learning.,PENDING,plz return on apr,2023-02-18,item7,Tanisha@gmail.com
+1030,Vihaan,2023-04-18,49,Compiler Construction,This book contains about compiler construction.,PENDING,plz return on apr,2023-02-19,item8,Vihaan@gmail.com
+1031,Khushi,2023-04-19,50,Introduction to Formal Languages and Automata,This book contains about formal languages and automata.,PENDING,plz return on apr,2023-02-20,item9,Khushi@gmail.com
+1032,Vivaan,2023-04-20,51,Computer Security: Principles and Practice,This book contains about computer security.,PENDING,plz return on apr,2023-02-21,item10,Vivaan@gmail.com
+1033,Diya,2023-04-21,52,Introduction to Human-Computer Interaction,This book contains about human computer interaction.,PENDING,plz return on apr,2023-02-22,item11,Diya@gmail.com
+1034,Aadi,2023-04-22,53,Computer Vision: Algorithms and Applications,This book contains about computer vision.,PENDING,plz return on apr,2023-02-23,item12,Aadi@gmail.com
+1035,Aisha,2023-04-23,54,The C Programming Language,This book contains about C programming language.,PENDING,plz return on apr,2023-02-24,item1,Aisha@gmail.com
+1036,Krish,2023-04-24,55,"Big Data: A Revolution That Will Transform How We Live, Work, and Think",This book contains about Big data analytics..,PENDING,plz return on apr,2023-02-25,item2,Krish@gmail.com
+1037,Leela,2023-04-25,56,Computer Architecture: A Quantitative Approach,This book contains about computer architecture.,PENDING,plz return on apr,2023-02-26,item3,Leela@gmail.com
+1038,Rajat,2023-04-26,57,Introduction to Cryptography with Coding Theory,This book contains about Cryptography.,PENDING,plz return on apr,2023-02-27,item4,Rajat@gmail.com
+1039,Sanjana,2023-04-27,58,JavaScript:The Good Parts,This book contains about JavaScript.,PENDING,plz return on apr,2023-02-28,item5,Sanjana@gmail.com
+1040,Virat,2023-04-28,59,The Art of Computer Programming,This book contains regarding art of computer programming.,PENDING,plz return on apr,2023-03-01,item6,Virat@gmail.com
+1041,Swara,2023-04-29,60,Introduction to Algorithms,This book contains about introduction to Algorithms.,PENDING,plz return on apr,2023-03-02,item7,Swara@gmail.com
+1042,Isha,2023-04-30,61,Structure and Interpretation of Computer Programs,This book contains about structure and interpretation of computer programs.,PENDING,plz return on apr,2023-03-03,item8,Isha@gmail.com
+1043,Arya,2023-05-01,62,Computer Networks,This book contains about computer networks.,PENDING,plz return on apr,2023-03-04,item9,Arya@gmail.com
+1044,Aarush,2023-05-02,63,Operating System Concepts,This book contains about operating system.,PENDING,plz return on apr,2023-03-05,item10,Aarush@gmail.com
+1045,Zoya,2023-05-03,64,Computer Organization and Design,This book contains about computer organization and design.,PENDING,plz return on apr,2023-03-06,item11,Zoya@gmail.com
+1046,Samar,2023-05-04,65,Introuduction to Artificial Intelligence,This book contains about Artificial intelligence.,"""PENDING""",plz return on apr,2023-03-07,item12,Samar@gmail.com
+1047,Anika,2023-05-05,66,Data Science Handbook,This book contains about DataScience.,"""PENDING""",plz return on apr,2023-03-08,"item1,item2",Anika@gmail.com
